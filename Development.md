@@ -3,7 +3,7 @@
 
 # Changelog
 
-* February 19, 2019
+* February 24, 2019
 
 Updated contact page
 
