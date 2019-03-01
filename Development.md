@@ -3,6 +3,10 @@
 
 # Changelog
 
+* February 28, 2019
+
+Theme & plugin update
+
 * February 24, 2019
 
 Updated contact page
