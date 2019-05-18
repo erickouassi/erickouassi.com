@@ -16,3 +16,7 @@ Updated contact page
 Installed new pluging to disable all comments 
 
 Changed Logo
+
+* 5/17/2019
+
+Theme & plugin update
