@@ -20,3 +20,10 @@ Changed Logo
 * 5/17/2019
 
 Theme & plugin update
+
+* 5/18/2019
+
+Monor text fixed
+
+Theme & plugin update
+
