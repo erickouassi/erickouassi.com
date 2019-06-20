@@ -27,3 +27,7 @@ Monor text fixed
 
 Theme & plugin update
 
+* 6/20/2019
+
+Manual plugins update 
+
