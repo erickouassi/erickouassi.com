@@ -39,3 +39,7 @@ Manual plugins update
 
 Manual plugins update 
 
+* 9/22/2019
+
+Removed wordpress and hand coding 
+
