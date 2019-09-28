@@ -43,3 +43,7 @@ Manual plugins update
 
 Removed wordpress and hand coding 
 
+* 9/27/2019
+
+SEO Tool check
+
