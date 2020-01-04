@@ -47,3 +47,7 @@ Removed wordpress and hand coding
 
 SEO Tool check
 
+* 1/3/2020
+
+Add human check to the form
+
