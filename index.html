@@ -251,7 +251,7 @@
             <div class="control-group">
               <div class="form-group floating-label-form-group controls mb-0 pb-2">
                 <label>Phone Number</label>
-                <input class="form-control" id="phone" type="tel" placeholder="Phone Number" required="required" data-validation-required-message="Please enter your phone number.">
+                <input class="form-control" id="phone" type="tel" placeholder="Phone Number" size="20" minlength="9" maxlength="14" required="required" data-validation-required-message="Please enter your phone number.">
                 <p class="help-block text-danger"></p>
               </div>
             </div>
@@ -266,7 +266,8 @@
            <div class="control-group">
               <div class="form-group floating-label-form-group controls mb-0 pb-2">
                 <label>Human verification</label>
-                <input class="form-control" id="stripes" type="text" placeholder="Human verification:stripes" required="required" data-validation-required-message="A zebra is black and stripes.">
+                <input class="form-control" type="text" name="pw" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}" title="Must contain at least one number and one uppercase and lowercase letter, and at least 8 or more characters" placeholder="Human verification" required="required" data-validation-required-message="Must contain at least one number and one uppercase and lowercase letter, and at least 8 or more characters"
+				>
                 <p class="help-block text-danger"></p>
               </div>
             </div>
