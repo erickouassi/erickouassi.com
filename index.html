@@ -268,7 +268,8 @@
            <div class="control-group">
               <div class="form-group floating-label-form-group controls mb-0 pb-2">
                 <label>Human verification</label>
-                <input class="form-control" type="text" name="pw" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}" title="Must contain at least one number and one uppercase and lowercase letter, and at least 8 or more characters" placeholder="Human verification" required="required" data-validation-required-message="Must contain at least one number and one uppercase and lowercase letter, and at least 8 or more characters"
+                <input class="form-control" type="text" pattern="[A-Za-z]{3}" title="3 alphabets characters only" 
+				placeholder="3 alphabets characters" required="required" data-validation-required-message="Must contain 3 alphabets characters only"
 				>
                 <p class="help-block text-danger"></p>
               </div>
